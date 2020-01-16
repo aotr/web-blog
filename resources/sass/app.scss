@@ -8,3 +8,9 @@
 @import 'node_modules/bulma/bulma';
 
 @import 'node_modules/buefy/src/scss/buefy';
+
+
+// custom Sass page
+@import "overrides";
+@import "helper";
+@import "styles";
